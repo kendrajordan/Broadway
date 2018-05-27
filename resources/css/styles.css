@@ -1,0 +1,62 @@
+.header{
+  text-align: center;
+  color:white;
+  background-image: url("/home/kendra/Developer/repos/Broadway/resources/images/the-flatiron-building.png");
+}
+.header h1{
+font-size: 70px;
+}
+
+.header li, a{
+  list-style: none;
+  font-size:18px;
+  color:white;
+  font-family:Helvetica;
+  padding-top: 5px;
+}
+.box h2{
+  font-size:32px;
+}
+ .box h3{
+  font-size:23px;
+}
+h1,h2, h3{
+  font-family:Helvetica;
+  font-weight:bold;
+
+}
+ .size{
+  font-size: 23px;
+text-align: center;
+color:white;
+background-image: url("/home/kendra/Developer/repos/Broadway/resources/images/the-flatiron-building.png");
+}
+p{
+font-family:Helvetica;
+font-size:14px;
+}
+.box{
+  background-color: white;
+  text-align: center;
+}
+.box img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer{
+  background-color: dimgray;
+  color:white;
+
+}
+.copyright{
+  display: inline-block;
+  float:left;
+  font-size: 11px;
+  padding-top: 5px;
+}
+footer li{
+  display: inline-block;
+  list-style: none;
+font-weight: bold;
+}
